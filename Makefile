@@ -1,5 +1,6 @@
 # Makefile for visitors
 # Copyright (C) 2004 Salvatore Sanfilippo <antirez@invece.org>
+# Update for test
 # All Rights Reserved
 # Under the BSD license (see COPYING)
 
